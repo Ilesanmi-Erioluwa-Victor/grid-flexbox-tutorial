@@ -7,5 +7,5 @@ You can follow me on my Social Media :
 
 ## What is FlexBox ?
 Flexbox is technology that allow us to create dimensional layouts...
-It's a flexible box that allows us to position our html content anywhere and anyhow
+It's a flexible box that allows us to distribute whitespaces among our html elemnts.
 
