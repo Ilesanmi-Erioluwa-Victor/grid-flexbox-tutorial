@@ -17,11 +17,18 @@ body {
     justify-content: space-evenly;
    margin-top: 50vh;
    transform: translateY(-50%);
+   background-color: #f4d7d7;
+   padding : 2rem 4rem;
+}
+
+.profile-cards__card {
+    display: flex;
 }
 
 .profile-cards__card--img {
     height: 20rem;
     width : 20rem;
-
+    border-radius: 50%;
     object-fit: cover;
+    object-position: center;
 }
